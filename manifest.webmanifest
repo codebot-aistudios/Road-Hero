@@ -1,0 +1,9 @@
+{
+  "name": "ROAD HERO Fleet Management Portal",
+  "short_name": "ROAD HERO",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#0b1f3a",
+  "description": "Offline-first fleet and rider operations management portal."
+}
